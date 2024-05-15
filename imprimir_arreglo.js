@@ -17,5 +17,6 @@ let imprimirArreglo = (arreglo)=>{
     
     }
 
+imprimirArreglo(["claudia", true, 23])
 
-imprimirArreglo(["claudia", 4, "tovar", true])
+
