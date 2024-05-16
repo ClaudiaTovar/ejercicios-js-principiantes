@@ -21,7 +21,7 @@ let rango = (n1, n2)=>{
      }
 
 
-let rango2 = (rango(0 , 10))
+let rango2 = (rango(5 , 5))
 
 
 
@@ -43,13 +43,5 @@ console.log(rango2)
 
 console.log(sumatoriaRango(rango2))
 
-
-
-
-
-    
-
-
-    
 
 
